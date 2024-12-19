@@ -1,6 +1,6 @@
 # whatsapp-chat-analyzer
 
-link: https://wca-app0.streamlit.app/
+link: https://wca-project.streamlit.app/
 
 Features 🚀
 1.Extract key insights from WhatsApp chat exports.
